@@ -1,5 +1,5 @@
 # Video Trimming - Android #
-<a target="_blank" href="LICENSE.md"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
+<a target="_blank" href="LICENSE"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
 <a target="_blank" href="https://www.cmarix.com/android-application-development-services.html"><img src="https://img.shields.io/badge/platform-android-blue.svg" alt="license : MIT"></a>
 
 ## Core Features ##
