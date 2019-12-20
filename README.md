@@ -20,7 +20,7 @@
 
 ## Purpose of this code ##
 
- - Whenever it is required to crop thr video, this code can help you
+ - Whenever it is required to crop the video, this code can help you
  - Whenever you are having a limiation of video recording such as allow users to record video for 1 min, this code can help you
 
 
